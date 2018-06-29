@@ -1,0 +1,798 @@
+newImages/imageBottom1.jpg 36,36,56,0,0 
+newImages/imageBottom2.jpg 9,43,29,0,0 
+newImages/imageBottom3.jpg 27,47,31,0,0 
+newImages/imageBottom4.jpg 28,48,35,0,0 
+newImages/imageBottom5.jpg 30,50,33,0,0 
+newImages/imageBottom6.jpg 28,51,34,0,0 
+newImages/imageBottom7.jpg 28,49,32,0,0 42,50,103,0,1 
+newImages/imageBottom8.jpg 49,56,38,7,1 27,47,32,0,0 
+newImages/imageBottom9.jpg 27,47,33,0,0 
+newImages/imageBottom10.jpg 38,48,32,0,1 
+newImages/imageBottom11.jpg 36,42,36,43,1 64,63,22,0,0 
+newImages/imageBottom12.jpg 68,62,24,0,0 
+newImages/imageBottom13.jpg 68,62,24,0,0 32,65,22,72,1 
+newImages/imageBottom14.jpg 39,47,94,49,1 68,64,23,0,0 
+newImages/imageBottom15.jpg 25,29,99,26,1 68,62,24,0,0 
+newImages/imageBottom16.jpg 64,54,36,0,0 25,27,100,31,1 
+newImages/imageBottom17.jpg 65,58,34,0,0 36,43,106,37,1 
+newImages/imageBottom18.jpg 50,57,51,44,1 65,56,35,0,0 
+newImages/imageBottom19.jpg 65,56,35,0,0 23,27,38,31,1 
+newImages/imageBottom20.jpg 35,40,44,37,1 56,54,37,0,0 
+newImages/imageBottom21.jpg 59,70,28,9,0 
+newImages/imageBottom22.jpg 34,43,38,37,1 61,67,29,10,0 
+newImages/imageBottom23.jpg 53,64,6,47,1 60,58,41,10,0 
+newImages/imageBottom24.jpg 60,68,28,10,0 38,44,93,38,1 
+newImages/imageBottom25.jpg 61,71,28,9,0 25,30,112,31,1 
+newImages/imageBottom26.jpg 59,71,28,10,0 
+newImages/imageBottom27.jpg 24,94,36,41,0 
+newImages/imageBottom28.jpg 35,39,46,38,1 25,93,36,39,0 
+newImages/imageBottom29.jpg 22,26,65,31,1 23,94,36,42,0 
+newImages/imageBottom33.jpg 52,60,46,12,1 
+newImages/imageBottom47.jpg 23,37,123,0,0 
+newImages/imageBottom48.jpg 26,20,0,0,0 
+newImages/imageBottom49.jpg 64,88,28,40,0 
+newImages/imageTop1.jpg 41,34,62,64,0 
+newImages/imageTop2.jpg 67,46,32,23,0 
+newImages/imageTop3.jpg 89,63,27,16,0 19,11,148,62,1 
+newImages/imageTop4.jpg 89,62,34,16,0 
+newImages/imageTop5.jpg 88,64,28,17,0 
+newImages/imageTop6.jpg 88,63,30,17,0 25,30,102,68,1 
+newImages/imageTop7.jpg 89,62,31,16,0 20,49,109,84,1 
+newImages/imageTop8.jpg 87,64,30,18,0 10,48,46,95,1 
+newImages/imageTop9.jpg 88,66,27,17,0 
+newImages/imageTop10.jpg 88,64,28,17,0 21,48,36,83,1 
+newImages/imageTop11.jpg 46,61,29,59,0 
+newImages/imageTop12.jpg 44,62,27,60,0 
+newImages/imageTop13.jpg 44,61,28,60,0 
+newImages/imageTop14.jpg 46,63,28,59,0 
+newImages/imageTop15.jpg 45,64,28,60,0 
+newImages/imageTop16.jpg 40,57,40,65,0 
+newImages/imageTop17.jpg 40,56,38,65,0 
+newImages/imageTop18.jpg 40,54,39,65,0 
+newImages/imageTop19.jpg 39,56,39,65,0 
+newImages/imageTop20.jpg 39,54,41,66,0 
+newImages/imageTop21.jpg 14,27,64,90,0 
+newImages/imageTop22.jpg 13,28,64,92,0 
+newImages/imageTop23.jpg 12,29,64,93,0 
+newImages/imageTop24.jpg 12,29,64,93,0 
+newImages/imageTop25.jpg 13,26,65,91,0 
+newImages/imageTop26.jpg 13,26,65,92,0 
+newImages/imageTop30.jpg 49,32,60,28,0 
+newImages/imageTop31.jpg 49,34,59,30,0 20,24,66,62,1 
+newImages/imageTop32.jpg 49,32,60,29,0 17,20,92,58,1 
+newImages/imageTop33.jpg 50,33,59,29,0 
+newImages/imageTop34.jpg 49,33,60,29,0 
+newImages/imageTop35.jpg 49,20,67,29,0 
+newImages/imageTop36.jpg 49,20,67,29,0 
+newImages/imageTop37.jpg 50,32,62,28,0 
+newImages/imageTop38.jpg 50,32,62,28,0 21,24,69,62,1 
+newImages/imageTop39.jpg 50,32,61,28,0 19,18,88,58,1 
+newImages/imageTop40.jpg 49,32,61,28,0 18,20,42,60,1 
+newImages/imageTop41.jpg 41,29,62,37,0 
+newImages/imageTop42.jpg 40,30,59,37,0 21,24,64,63,1 
+newImages/imageTop43.jpg 42,30,60,37,0 
+newImages/imageTop44.jpg 18,20,43,60,1 41,28,61,37,0 
+newImages/imageTop45.jpg 40,31,59,37,0 21,26,0,60,1 
+newImages/imageTop46.jpg 42,29,60,37,0 16,20,124,56,1 
+newImages/imageTop47.jpg 42,30,60,37,0 31,33,126,72,1 
+newImages/imageTop48.jpg 42,32,59,36,0 30,26,0,75,1 
+newImages/imageTop49.jpg 41,30,60,37,0 
+newImages/imageTop50.jpg 40,30,61,37,0 
+newImages/botton8.jpg 9,31,45,0,1 
+newImages/botton9.jpg 11,30,46,0,1 
+newImages/botton10.jpg 7,36,122,0,1 
+newImages/botton11.jpg 28,43,80,0,1 
+newImages/botton12.jpg 30,48,73,0,1 
+newImages/botton13.jpg 29,47,72,0,1 
+newImages/botton14.jpg 14,40,117,0,1 
+newImages/botton15.jpg 11,32,52,0,1 
+newImages/botton16.jpg 10,33,47,0,1 
+newImages/botton17.jpg 26,30,43,32,1 61,54,66,0,0 
+newImages/botton18.jpg 60,54,66,0,0 
+newImages/botton19.jpg 61,54,67,0,0 21,64,52,84,1 
+newImages/botton20.jpg 61,32,71,0,0 21,65,52,84,1 
+newImages/botton21.jpg 38,30,74,0,0 
+newImages/botton22.jpg 39,22,70,0,0 
+newImages/botton23.jpg 17,20,89,21,1 38,20,72,0,0 
+newImages/botton24.jpg 39,20,72,0,0 17,18,58,20,1 
+newImages/botton25.jpg 26,32,52,35,1 39,24,71,0,0 
+newImages/botton26.jpg 24,32,2,36,1 38,33,71,0,0 
+newImages/botton27.jpg 37,32,74,0,0 25,30,2,35,1 
+newImages/botton28.jpg 31,27,88,74,1 
+newImages/botton29.jpg 17,20,64,21,1 38,29,84,0,0 
+newImages/top1.jpg 81,54,59,11,0 
+newImages/top2.jpg 82,34,66,10,0 19,18,142,52,1 
+newImages/top3.jpg 82,34,64,11,0 
+newImages/top4.jpg 58,67,62,38,0 
+newImages/top5.jpg 55,55,55,38,0 
+newImages/top6.jpg 55,68,56,39,0 
+newImages/top7.jpg 56,67,75,40,0 29,31,129,59,1 
+newImages/top8.jpg 26,33,48,60,1 57,72,74,40,0 
+newImages/top9.jpg 28,32,50,60,1 56,60,69,38,0 
+newImages/top10.jpg 58,61,70,38,1 28,34,122,59,1 
+newImages/top11.jpg 55,65,69,40,0 35,43,83,70,1 
+newImages/top12.jpg 58,70,76,38,0 33,46,76,72,1 
+newImages/top13.jpg 80,32,82,10,0 34,42,77,71,1 
+newImages/top14.jpg 84,35,84,8,0 30,38,117,62,1 
+newImages/top15.jpg 85,42,80,9,0 31,33,57,61,1 
+newImages/top16.jpg 83,56,79,10,0 28,33,52,61,1 
+newImages/top17.jpg 44,53,73,61,0 
+newImages/top18.jpg 44,54,72,61,0 
+newImages/top19.jpg 45,57,69,61,0 
+newImages/top20.jpg 46,35,72,60,0 
+newImages/top21.jpg 39,32,76,66,0 
+newImages/top22.jpg 38,23,76,67,0 
+newImages/top23.jpg 38,23,75,66,0 
+newImages/top24.jpg 39,18,76,66,0 8,21,93,97,1 
+newImages/top25.jpg 39,19,76,66,0 11,20,59,94,1 
+newImages/top26.jpg 39,21,76,66,0 
+newImages/top27.jpg 40,36,73,65,0 
+newImages/top28.jpg 39,32,75,66,0 
+newImages/top29.jpg 39,32,76,66,0 
+newImages/top30.jpg 28,33,2,33,0 39,28,84,0,1 
+newImages/top31.jpg 31,30,87,74,0 9,21,66,97,1 
+newImages/imageBottom1flip.jpg 36,36,67,0,0 
+newImages/imageBottom2flip.jpg 9,43,88,0,0 
+newImages/imageBottom3flip.jpg 27,47,82,0,0 
+newImages/imageBottom4flip.jpg 28,48,77,0,0 
+newImages/imageBottom5flip.jpg 30,50,77,0,0 
+newImages/imageBottom6flip.jpg 28,51,75,0,0 
+newImages/imageBottom7flip.jpg 28,49,79,0,0 42,50,7,0,1 
+newImages/imageBottom8flip.jpg 49,56,66,7,1 27,47,80,0,0 
+newImages/imageBottom9flip.jpg 27,47,79,0,0 
+newImages/imageBottom10flip.jpg 38,48,80,0,1 
+newImages/imageBottom11flip.jpg 36,42,82,43,1 64,63,74,0,0 
+newImages/imageBottom12flip.jpg 68,62,74,0,0 
+newImages/imageBottom13flip.jpg 68,62,73,0,0 32,65,72,72,1 
+newImages/imageBottom14flip.jpg 39,47,18,49,1 68,64,73,0,0 
+newImages/imageBottom15flip.jpg 25,29,32,26,1 68,62,74,0,0 
+newImages/imageBottom16flip.jpg 64,54,68,0,0 25,27,32,31,1 
+newImages/imageBottom17flip.jpg 65,58,68,0,0 36,43,10,37,1 
+newImages/imageBottom18flip.jpg 50,57,51,44,1 65,56,69,0,0 
+newImages/imageBottom19flip.jpg 65,56,69,0,0 23,27,94,31,1 
+newImages/imageBottom20flip.jpg 35,40,75,37,1 56,54,68,0,0 
+newImages/imageBottom21flip.jpg 59,70,62,9,0 
+newImages/imageBottom22flip.jpg 34,43,80,37,1 61,67,64,10,0 
+newImages/imageBottom23flip.jpg 53,64,89,47,1 60,58,61,10,0 
+newImages/imageBottom24flip.jpg 60,68,64,10,0 38,44,22,38,1 
+newImages/imageBottom25flip.jpg 61,71,60,9,0 25,30,17,31,1 
+newImages/imageBottom26flip.jpg 59,71,61,10,0 
+newImages/imageBottom27flip.jpg 24,94,30,41,0 
+newImages/imageBottom28flip.jpg 35,39,74,38,1 25,93,31,39,0 
+newImages/imageBottom29flip.jpg 22,26,69,31,1 23,94,30,42,0 
+newImages/imageBottom33flip.jpg 52,60,54,12,1 
+newImages/imageBottom47flip.jpg 23,37,0,0,0 
+newImages/imageBottom48flip.jpg 26,20,140,0,0 
+newImages/imageBottom49flip.jpg 64,88,43,40,0 
+newImages/imageTop1flip.jpg 41,34,63,64,0 
+newImages/imageTop2flip.jpg 67,46,81,23,0 
+newImages/imageTop3flip.jpg 89,63,70,16,0 19,11,0,62,1 
+newImages/imageTop4flip.jpg 89,62,64,16,0 
+newImages/imageTop5flip.jpg 88,64,67,17,0 
+newImages/imageTop6flip.jpg 88,63,67,17,0 25,30,27,68,1 
+newImages/imageTop7flip.jpg 89,62,67,16,0 20,49,1,84,1 
+newImages/imageTop8flip.jpg 87,64,66,18,0 10,48,66,95,1 
+newImages/imageTop9flip.jpg 88,66,67,17,0 
+newImages/imageTop10flip.jpg 88,64,68,17,0 21,48,76,83,1 
+newImages/imageTop11flip.jpg 46,61,70,59,0 
+newImages/imageTop12flip.jpg 44,62,70,60,0 
+newImages/imageTop13flip.jpg 44,61,71,60,0 
+newImages/imageTop14flip.jpg 46,63,68,59,0 
+newImages/imageTop15flip.jpg 45,64,68,60,0 
+newImages/imageTop16flip.jpg 40,57,62,65,0 
+newImages/imageTop17flip.jpg 40,56,66,65,0 
+newImages/imageTop18flip.jpg 40,54,66,65,0 
+newImages/imageTop19flip.jpg 39,56,64,65,0 
+newImages/imageTop20flip.jpg 39,54,64,66,0 
+newImages/imageTop21flip.jpg 14,27,69,90,0 
+newImages/imageTop22flip.jpg 13,28,68,92,0 
+newImages/imageTop23flip.jpg 12,29,66,93,0 
+newImages/imageTop24flip.jpg 12,29,66,93,0 
+newImages/imageTop25flip.jpg 13,26,69,91,0 
+newImages/imageTop26flip.jpg 13,26,68,92,0 
+newImages/imageTop30flip.jpg 49,32,67,28,0 
+newImages/imageTop31flip.jpg 49,34,67,30,0 20,24,70,62,1 
+newImages/imageTop32flip.jpg 49,32,68,29,0 17,20,48,58,1 
+newImages/imageTop33flip.jpg 50,33,67,29,0 
+newImages/imageTop34flip.jpg 49,33,67,29,0 
+newImages/imageTop35flip.jpg 49,20,72,29,0 
+newImages/imageTop36flip.jpg 49,20,73,29,0 
+newImages/imageTop37flip.jpg 50,32,66,28,0 
+newImages/imageTop38flip.jpg 50,32,66,28,0 21,24,67,62,1 
+newImages/imageTop39flip.jpg 50,32,67,28,0 19,18,54,58,1 
+newImages/imageTop40flip.jpg 49,32,66,28,0 18,20,97,60,1 
+newImages/imageTop41flip.jpg 41,29,69,37,0 
+newImages/imageTop42flip.jpg 40,30,70,37,0 21,24,72,63,1 
+newImages/imageTop43flip.jpg 42,30,70,37,0 
+newImages/imageTop44flip.jpg 18,20,97,60,1 41,28,70,37,0 
+newImages/imageTop45flip.jpg 40,31,70,37,0 21,26,134,60,1 
+newImages/imageTop46flip.jpg 42,29,70,37,0 16,20,15,56,1 
+newImages/imageTop47flip.jpg 42,30,70,37,0 31,33,0,72,1 
+newImages/imageTop48flip.jpg 42,32,69,36,0 30,26,133,75,1 
+newImages/imageTop49flip.jpg 41,30,70,37,0 
+newImages/imageTop50flip.jpg 40,30,69,37,0 
+newImages/botton8flip.jpg 9,31,84,0,1 
+newImages/botton9flip.jpg 11,30,84,0,1 
+newImages/botton10flip.jpg 7,36,2,0,1 
+newImages/botton11flip.jpg 28,43,37,0,1 
+newImages/botton12flip.jpg 30,48,39,0,1 
+newImages/botton13flip.jpg 29,47,41,0,1 
+newImages/botton14flip.jpg 14,40,3,0,1 
+newImages/botton15flip.jpg 11,32,76,0,1 
+newImages/botton16flip.jpg 10,33,80,0,1 
+newImages/botton17flip.jpg 26,30,87,32,1 61,54,40,0,0 
+newImages/botton18flip.jpg 60,54,41,0,0 
+newImages/botton19flip.jpg 61,54,39,0,0 21,64,44,84,1 
+newImages/botton20flip.jpg 61,32,57,0,0 21,65,44,84,1 
+newImages/botton21flip.jpg 38,30,56,0,0 
+newImages/botton22flip.jpg 39,22,68,0,0 
+newImages/botton23flip.jpg 17,20,51,21,1 38,20,69,0,0 
+newImages/botton24flip.jpg 39,20,68,0,0 17,18,85,20,1 
+newImages/botton25flip.jpg 26,32,76,35,1 39,24,65,0,0 
+newImages/botton26flip.jpg 24,32,126,36,1 38,33,56,0,0 
+newImages/botton27flip.jpg 37,32,55,0,0 25,30,127,35,1 
+newImages/botton28flip.jpg 31,27,44,74,1 
+newImages/botton29flip.jpg 17,20,76,21,1 38,29,47,0,0 
+newImages/top1flip.jpg 81,54,47,11,0 
+newImages/top2flip.jpg 82,34,61,10,0 19,18,0,52,1 
+newImages/top3flip.jpg 82,34,62,11,0 
+newImages/top4flip.jpg 58,67,31,38,0 
+newImages/top5flip.jpg 55,55,50,38,0 
+newImages/top6flip.jpg 55,68,36,39,0 
+newImages/top7flip.jpg 56,67,18,40,0 29,31,0,59,1 
+newImages/top8flip.jpg 26,33,80,60,1 57,72,14,40,0 
+newImages/top9flip.jpg 28,32,78,60,1 56,60,31,38,0 
+newImages/top10flip.jpg 58,61,28,38,1 28,34,5,59,1 
+newImages/top11flip.jpg 55,65,26,40,0 35,43,34,70,1 
+newImages/top12flip.jpg 58,70,13,38,0 33,46,38,72,1 
+newImages/top13flip.jpg 80,32,46,10,0 34,42,40,71,1 
+newImages/top14flip.jpg 84,35,41,8,0 30,38,4,62,1 
+newImages/top15flip.jpg 85,42,38,9,0 31,33,70,61,1 
+newImages/top16flip.jpg 83,56,24,10,0 28,33,74,61,1 
+newImages/top17flip.jpg 44,53,34,61,0 
+newImages/top18flip.jpg 44,54,34,61,0 
+newImages/top19flip.jpg 45,57,34,61,0 
+newImages/top20flip.jpg 46,35,53,60,0 
+newImages/top21flip.jpg 39,32,52,66,0 
+newImages/top22flip.jpg 38,23,61,67,0 
+newImages/top23flip.jpg 38,23,62,66,0 
+newImages/top24flip.jpg 39,18,66,66,0 8,21,46,97,1 
+newImages/top25flip.jpg 39,19,65,66,0 11,20,82,94,1 
+newImages/top26flip.jpg 39,21,63,66,0 
+newImages/top27flip.jpg 40,36,52,65,0 
+newImages/top28flip.jpg 39,32,54,66,0 
+newImages/top29flip.jpg 39,32,51,66,0 
+newImages/top30flip.jpg 28,33,125,33,0 39,28,47,0,1 
+newImages/top31flip.jpg 31,30,44,74,0 9,21,73,97,1 
+newImages/imageBottom1Gaussian.jpg 36,36,56,0,0 
+newImages/imageBottom2Gaussian.jpg 9,43,29,0,0 
+newImages/imageBottom3Gaussian.jpg 27,47,31,0,0 
+newImages/imageBottom4Gaussian.jpg 28,48,35,0,0 
+newImages/imageBottom5Gaussian.jpg 30,50,33,0,0 
+newImages/imageBottom6Gaussian.jpg 28,51,34,0,0 
+newImages/imageBottom7Gaussian.jpg 28,49,32,0,0 42,50,103,0,1 
+newImages/imageBottom8Gaussian.jpg 49,56,38,7,1 27,47,32,0,0 
+newImages/imageBottom9Gaussian.jpg 27,47,33,0,0 
+newImages/imageBottom10Gaussian.jpg 38,48,32,0,1 
+newImages/imageBottom11Gaussian.jpg 36,42,36,43,1 64,63,22,0,0 
+newImages/imageBottom12Gaussian.jpg 68,62,24,0,0 
+newImages/imageBottom13Gaussian.jpg 68,62,24,0,0 32,65,22,72,1 
+newImages/imageBottom14Gaussian.jpg 39,47,94,49,1 68,64,23,0,0 
+newImages/imageBottom15Gaussian.jpg 25,29,99,26,1 68,62,24,0,0 
+newImages/imageBottom16Gaussian.jpg 64,54,36,0,0 25,27,100,31,1 
+newImages/imageBottom17Gaussian.jpg 65,58,34,0,0 36,43,106,37,1 
+newImages/imageBottom18Gaussian.jpg 50,57,51,44,1 65,56,35,0,0 
+newImages/imageBottom19Gaussian.jpg 65,56,35,0,0 23,27,38,31,1 
+newImages/imageBottom20Gaussian.jpg 35,40,44,37,1 56,54,37,0,0 
+newImages/imageBottom21Gaussian.jpg 59,70,28,9,0 
+newImages/imageBottom22Gaussian.jpg 34,43,38,37,1 61,67,29,10,0 
+newImages/imageBottom23Gaussian.jpg 53,64,6,47,1 60,58,41,10,0 
+newImages/imageBottom24Gaussian.jpg 60,68,28,10,0 38,44,93,38,1 
+newImages/imageBottom25Gaussian.jpg 61,71,28,9,0 25,30,112,31,1 
+newImages/imageBottom26Gaussian.jpg 59,71,28,10,0 
+newImages/imageBottom27Gaussian.jpg 24,94,36,41,0 
+newImages/imageBottom28Gaussian.jpg 35,39,46,38,1 25,93,36,39,0 
+newImages/imageBottom29Gaussian.jpg 22,26,65,31,1 23,94,36,42,0 
+newImages/imageBottom33Gaussian.jpg 52,60,46,12,1 
+newImages/imageBottom47Gaussian.jpg 23,37,123,0,0 
+newImages/imageBottom48Gaussian.jpg 26,20,0,0,0 
+newImages/imageBottom49Gaussian.jpg 64,88,28,40,0 
+newImages/imageTop1Gaussian.jpg 41,34,62,64,0 
+newImages/imageTop2Gaussian.jpg 67,46,32,23,0 
+newImages/imageTop3Gaussian.jpg 89,63,27,16,0 19,11,148,62,1 
+newImages/imageTop4Gaussian.jpg 89,62,34,16,0 
+newImages/imageTop5Gaussian.jpg 88,64,28,17,0 
+newImages/imageTop6Gaussian.jpg 88,63,30,17,0 25,30,102,68,1 
+newImages/imageTop7Gaussian.jpg 89,62,31,16,0 20,49,109,84,1 
+newImages/imageTop8Gaussian.jpg 87,64,30,18,0 10,48,46,95,1 
+newImages/imageTop9Gaussian.jpg 88,66,27,17,0 
+newImages/imageTop10Gaussian.jpg 88,64,28,17,0 21,48,36,83,1 
+newImages/imageTop11Gaussian.jpg 46,61,29,59,0 
+newImages/imageTop12Gaussian.jpg 44,62,27,60,0 
+newImages/imageTop13Gaussian.jpg 44,61,28,60,0 
+newImages/imageTop14Gaussian.jpg 46,63,28,59,0 
+newImages/imageTop15Gaussian.jpg 45,64,28,60,0 
+newImages/imageTop16Gaussian.jpg 40,57,40,65,0 
+newImages/imageTop17Gaussian.jpg 40,56,38,65,0 
+newImages/imageTop18Gaussian.jpg 40,54,39,65,0 
+newImages/imageTop19Gaussian.jpg 39,56,39,65,0 
+newImages/imageTop20Gaussian.jpg 39,54,41,66,0 
+newImages/imageTop21Gaussian.jpg 14,27,64,90,0 
+newImages/imageTop22Gaussian.jpg 13,28,64,92,0 
+newImages/imageTop23Gaussian.jpg 12,29,64,93,0 
+newImages/imageTop24Gaussian.jpg 12,29,64,93,0 
+newImages/imageTop25Gaussian.jpg 13,26,65,91,0 
+newImages/imageTop26Gaussian.jpg 13,26,65,92,0 
+newImages/imageTop30Gaussian.jpg 49,32,60,28,0 
+newImages/imageTop31Gaussian.jpg 49,34,59,30,0 20,24,66,62,1 
+newImages/imageTop32Gaussian.jpg 49,32,60,29,0 17,20,92,58,1 
+newImages/imageTop33Gaussian.jpg 50,33,59,29,0 
+newImages/imageTop34Gaussian.jpg 49,33,60,29,0 
+newImages/imageTop35Gaussian.jpg 49,20,67,29,0 
+newImages/imageTop36Gaussian.jpg 49,20,67,29,0 
+newImages/imageTop37Gaussian.jpg 50,32,62,28,0 
+newImages/imageTop38Gaussian.jpg 50,32,62,28,0 21,24,69,62,1 
+newImages/imageTop39Gaussian.jpg 50,32,61,28,0 19,18,88,58,1 
+newImages/imageTop40Gaussian.jpg 49,32,61,28,0 18,20,42,60,1 
+newImages/imageTop41Gaussian.jpg 41,29,62,37,0 
+newImages/imageTop42Gaussian.jpg 40,30,59,37,0 21,24,64,63,1 
+newImages/imageTop43Gaussian.jpg 42,30,60,37,0 
+newImages/imageTop44Gaussian.jpg 18,20,43,60,1 41,28,61,37,0 
+newImages/imageTop45Gaussian.jpg 40,31,59,37,0 21,26,0,60,1 
+newImages/imageTop46Gaussian.jpg 42,29,60,37,0 16,20,124,56,1 
+newImages/imageTop47Gaussian.jpg 42,30,60,37,0 31,33,126,72,1 
+newImages/imageTop48Gaussian.jpg 42,32,59,36,0 30,26,0,75,1 
+newImages/imageTop49Gaussian.jpg 41,30,60,37,0 
+newImages/imageTop50Gaussian.jpg 40,30,61,37,0 
+newImages/botton8Gaussian.jpg 9,31,45,0,1 
+newImages/botton9Gaussian.jpg 11,30,46,0,1 
+newImages/botton10Gaussian.jpg 7,36,122,0,1 
+newImages/botton11Gaussian.jpg 28,43,80,0,1 
+newImages/botton12Gaussian.jpg 30,48,73,0,1 
+newImages/botton13Gaussian.jpg 29,47,72,0,1 
+newImages/botton14Gaussian.jpg 14,40,117,0,1 
+newImages/botton15Gaussian.jpg 11,32,52,0,1 
+newImages/botton16Gaussian.jpg 10,33,47,0,1 
+newImages/botton17Gaussian.jpg 26,30,43,32,1 61,54,66,0,0 
+newImages/botton18Gaussian.jpg 60,54,66,0,0 
+newImages/botton19Gaussian.jpg 61,54,67,0,0 21,64,52,84,1 
+newImages/botton20Gaussian.jpg 61,32,71,0,0 21,65,52,84,1 
+newImages/botton21Gaussian.jpg 38,30,74,0,0 
+newImages/botton22Gaussian.jpg 39,22,70,0,0 
+newImages/botton23Gaussian.jpg 17,20,89,21,1 38,20,72,0,0 
+newImages/botton24Gaussian.jpg 39,20,72,0,0 17,18,58,20,1 
+newImages/botton25Gaussian.jpg 26,32,52,35,1 39,24,71,0,0 
+newImages/botton26Gaussian.jpg 24,32,2,36,1 38,33,71,0,0 
+newImages/botton27Gaussian.jpg 37,32,74,0,0 25,30,2,35,1 
+newImages/botton28Gaussian.jpg 31,27,88,74,1 
+newImages/botton29Gaussian.jpg 17,20,64,21,1 38,29,84,0,0 
+newImages/top1Gaussian.jpg 81,54,59,11,0 
+newImages/top2Gaussian.jpg 82,34,66,10,0 19,18,142,52,1 
+newImages/top3Gaussian.jpg 82,34,64,11,0 
+newImages/top4Gaussian.jpg 58,67,62,38,0 
+newImages/top5Gaussian.jpg 55,55,55,38,0 
+newImages/top6Gaussian.jpg 55,68,56,39,0 
+newImages/top7Gaussian.jpg 56,67,75,40,0 29,31,129,59,1 
+newImages/top8Gaussian.jpg 26,33,48,60,1 57,72,74,40,0 
+newImages/top9Gaussian.jpg 28,32,50,60,1 56,60,69,38,0 
+newImages/top10Gaussian.jpg 58,61,70,38,1 28,34,122,59,1 
+newImages/top11Gaussian.jpg 55,65,69,40,0 35,43,83,70,1 
+newImages/top12Gaussian.jpg 58,70,76,38,0 33,46,76,72,1 
+newImages/top13Gaussian.jpg 80,32,82,10,0 34,42,77,71,1 
+newImages/top14Gaussian.jpg 84,35,84,8,0 30,38,117,62,1 
+newImages/top15Gaussian.jpg 85,42,80,9,0 31,33,57,61,1 
+newImages/top16Gaussian.jpg 83,56,79,10,0 28,33,52,61,1 
+newImages/top17Gaussian.jpg 44,53,73,61,0 
+newImages/top18Gaussian.jpg 44,54,72,61,0 
+newImages/top19Gaussian.jpg 45,57,69,61,0 
+newImages/top20Gaussian.jpg 46,35,72,60,0 
+newImages/top21Gaussian.jpg 39,32,76,66,0 
+newImages/top22Gaussian.jpg 38,23,76,67,0 
+newImages/top23Gaussian.jpg 38,23,75,66,0 
+newImages/top24Gaussian.jpg 39,18,76,66,0 8,21,93,97,1 
+newImages/top25Gaussian.jpg 39,19,76,66,0 11,20,59,94,1 
+newImages/top26Gaussian.jpg 39,21,76,66,0 
+newImages/top27Gaussian.jpg 40,36,73,65,0 
+newImages/top28Gaussian.jpg 39,32,75,66,0 
+newImages/top29Gaussian.jpg 39,32,76,66,0 
+newImages/top30Gaussian.jpg 28,33,2,33,0 39,28,84,0,1 
+newImages/top31Gaussian.jpg 31,30,87,74,0 9,21,66,97,1 
+newImages/imageBottom1flipGaussian.jpg 36,36,67,0,0 
+newImages/imageBottom2flipGaussian.jpg 9,43,88,0,0 
+newImages/imageBottom3flipGaussian.jpg 27,47,82,0,0 
+newImages/imageBottom4flipGaussian.jpg 28,48,77,0,0 
+newImages/imageBottom5flipGaussian.jpg 30,50,77,0,0 
+newImages/imageBottom6flipGaussian.jpg 28,51,75,0,0 
+newImages/imageBottom7flipGaussian.jpg 28,49,79,0,0 42,50,7,0,1 
+newImages/imageBottom8flipGaussian.jpg 49,56,66,7,1 27,47,80,0,0 
+newImages/imageBottom9flipGaussian.jpg 27,47,79,0,0 
+newImages/imageBottom10flipGaussian.jpg 38,48,80,0,1 
+newImages/imageBottom11flipGaussian.jpg 36,42,82,43,1 64,63,74,0,0 
+newImages/imageBottom12flipGaussian.jpg 68,62,74,0,0 
+newImages/imageBottom13flipGaussian.jpg 68,62,73,0,0 32,65,72,72,1 
+newImages/imageBottom14flipGaussian.jpg 39,47,18,49,1 68,64,73,0,0 
+newImages/imageBottom15flipGaussian.jpg 25,29,32,26,1 68,62,74,0,0 
+newImages/imageBottom16flipGaussian.jpg 64,54,68,0,0 25,27,32,31,1 
+newImages/imageBottom17flipGaussian.jpg 65,58,68,0,0 36,43,10,37,1 
+newImages/imageBottom18flipGaussian.jpg 50,57,51,44,1 65,56,69,0,0 
+newImages/imageBottom19flipGaussian.jpg 65,56,69,0,0 23,27,94,31,1 
+newImages/imageBottom20flipGaussian.jpg 35,40,75,37,1 56,54,68,0,0 
+newImages/imageBottom21flipGaussian.jpg 59,70,62,9,0 
+newImages/imageBottom22flipGaussian.jpg 34,43,80,37,1 61,67,64,10,0 
+newImages/imageBottom23flipGaussian.jpg 53,64,89,47,1 60,58,61,10,0 
+newImages/imageBottom24flipGaussian.jpg 60,68,64,10,0 38,44,22,38,1 
+newImages/imageBottom25flipGaussian.jpg 61,71,60,9,0 25,30,17,31,1 
+newImages/imageBottom26flipGaussian.jpg 59,71,61,10,0 
+newImages/imageBottom27flipGaussian.jpg 24,94,30,41,0 
+newImages/imageBottom28flipGaussian.jpg 35,39,74,38,1 25,93,31,39,0 
+newImages/imageBottom29flipGaussian.jpg 22,26,69,31,1 23,94,30,42,0 
+newImages/imageBottom33flipGaussian.jpg 52,60,54,12,1 
+newImages/imageBottom47flipGaussian.jpg 23,37,0,0,0 
+newImages/imageBottom48flipGaussian.jpg 26,20,140,0,0 
+newImages/imageBottom49flipGaussian.jpg 64,88,43,40,0 
+newImages/imageTop1flipGaussian.jpg 41,34,63,64,0 
+newImages/imageTop2flipGaussian.jpg 67,46,81,23,0 
+newImages/imageTop3flipGaussian.jpg 89,63,70,16,0 19,11,0,62,1 
+newImages/imageTop4flipGaussian.jpg 89,62,64,16,0 
+newImages/imageTop5flipGaussian.jpg 88,64,67,17,0 
+newImages/imageTop6flipGaussian.jpg 88,63,67,17,0 25,30,27,68,1 
+newImages/imageTop7flipGaussian.jpg 89,62,67,16,0 20,49,1,84,1 
+newImages/imageTop8flipGaussian.jpg 87,64,66,18,0 10,48,66,95,1 
+newImages/imageTop9flipGaussian.jpg 88,66,67,17,0 
+newImages/imageTop10flipGaussian.jpg 88,64,68,17,0 21,48,76,83,1 
+newImages/imageTop11flipGaussian.jpg 46,61,70,59,0 
+newImages/imageTop12flipGaussian.jpg 44,62,70,60,0 
+newImages/imageTop13flipGaussian.jpg 44,61,71,60,0 
+newImages/imageTop14flipGaussian.jpg 46,63,68,59,0 
+newImages/imageTop15flipGaussian.jpg 45,64,68,60,0 
+newImages/imageTop16flipGaussian.jpg 40,57,62,65,0 
+newImages/imageTop17flipGaussian.jpg 40,56,66,65,0 
+newImages/imageTop18flipGaussian.jpg 40,54,66,65,0 
+newImages/imageTop19flipGaussian.jpg 39,56,64,65,0 
+newImages/imageTop20flipGaussian.jpg 39,54,64,66,0 
+newImages/imageTop21flipGaussian.jpg 14,27,69,90,0 
+newImages/imageTop22flipGaussian.jpg 13,28,68,92,0 
+newImages/imageTop23flipGaussian.jpg 12,29,66,93,0 
+newImages/imageTop24flipGaussian.jpg 12,29,66,93,0 
+newImages/imageTop25flipGaussian.jpg 13,26,69,91,0 
+newImages/imageTop26flipGaussian.jpg 13,26,68,92,0 
+newImages/imageTop30flipGaussian.jpg 49,32,67,28,0 
+newImages/imageTop31flipGaussian.jpg 49,34,67,30,0 20,24,70,62,1 
+newImages/imageTop32flipGaussian.jpg 49,32,68,29,0 17,20,48,58,1 
+newImages/imageTop33flipGaussian.jpg 50,33,67,29,0 
+newImages/imageTop34flipGaussian.jpg 49,33,67,29,0 
+newImages/imageTop35flipGaussian.jpg 49,20,72,29,0 
+newImages/imageTop36flipGaussian.jpg 49,20,73,29,0 
+newImages/imageTop37flipGaussian.jpg 50,32,66,28,0 
+newImages/imageTop38flipGaussian.jpg 50,32,66,28,0 21,24,67,62,1 
+newImages/imageTop39flipGaussian.jpg 50,32,67,28,0 19,18,54,58,1 
+newImages/imageTop40flipGaussian.jpg 49,32,66,28,0 18,20,97,60,1 
+newImages/imageTop41flipGaussian.jpg 41,29,69,37,0 
+newImages/imageTop42flipGaussian.jpg 40,30,70,37,0 21,24,72,63,1 
+newImages/imageTop43flipGaussian.jpg 42,30,70,37,0 
+newImages/imageTop44flipGaussian.jpg 18,20,97,60,1 41,28,70,37,0 
+newImages/imageTop45flipGaussian.jpg 40,31,70,37,0 21,26,134,60,1 
+newImages/imageTop46flipGaussian.jpg 42,29,70,37,0 16,20,15,56,1 
+newImages/imageTop47flipGaussian.jpg 42,30,70,37,0 31,33,0,72,1 
+newImages/imageTop48flipGaussian.jpg 42,32,69,36,0 30,26,133,75,1 
+newImages/imageTop49flipGaussian.jpg 41,30,70,37,0 
+newImages/imageTop50flipGaussian.jpg 40,30,69,37,0 
+newImages/botton8flipGaussian.jpg 9,31,84,0,1 
+newImages/botton9flipGaussian.jpg 11,30,84,0,1 
+newImages/botton10flipGaussian.jpg 7,36,2,0,1 
+newImages/botton11flipGaussian.jpg 28,43,37,0,1 
+newImages/botton12flipGaussian.jpg 30,48,39,0,1 
+newImages/botton13flipGaussian.jpg 29,47,41,0,1 
+newImages/botton14flipGaussian.jpg 14,40,3,0,1 
+newImages/botton15flipGaussian.jpg 11,32,76,0,1 
+newImages/botton16flipGaussian.jpg 10,33,80,0,1 
+newImages/botton17flipGaussian.jpg 26,30,87,32,1 61,54,40,0,0 
+newImages/botton18flipGaussian.jpg 60,54,41,0,0 
+newImages/botton19flipGaussian.jpg 61,54,39,0,0 21,64,44,84,1 
+newImages/botton20flipGaussian.jpg 61,32,57,0,0 21,65,44,84,1 
+newImages/botton21flipGaussian.jpg 38,30,56,0,0 
+newImages/botton22flipGaussian.jpg 39,22,68,0,0 
+newImages/botton23flipGaussian.jpg 17,20,51,21,1 38,20,69,0,0 
+newImages/botton24flipGaussian.jpg 39,20,68,0,0 17,18,85,20,1 
+newImages/botton25flipGaussian.jpg 26,32,76,35,1 39,24,65,0,0 
+newImages/botton26flipGaussian.jpg 24,32,126,36,1 38,33,56,0,0 
+newImages/botton27flipGaussian.jpg 37,32,55,0,0 25,30,127,35,1 
+newImages/botton28flipGaussian.jpg 31,27,44,74,1 
+newImages/botton29flipGaussian.jpg 17,20,76,21,1 38,29,47,0,0 
+newImages/top1flipGaussian.jpg 81,54,47,11,0 
+newImages/top2flipGaussian.jpg 82,34,61,10,0 19,18,0,52,1 
+newImages/top3flipGaussian.jpg 82,34,62,11,0 
+newImages/top4flipGaussian.jpg 58,67,31,38,0 
+newImages/top5flipGaussian.jpg 55,55,50,38,0 
+newImages/top6flipGaussian.jpg 55,68,36,39,0 
+newImages/top7flipGaussian.jpg 56,67,18,40,0 29,31,0,59,1 
+newImages/top8flipGaussian.jpg 26,33,80,60,1 57,72,14,40,0 
+newImages/top9flipGaussian.jpg 28,32,78,60,1 56,60,31,38,0 
+newImages/top10flipGaussian.jpg 58,61,28,38,1 28,34,5,59,1 
+newImages/top11flipGaussian.jpg 55,65,26,40,0 35,43,34,70,1 
+newImages/top12flipGaussian.jpg 58,70,13,38,0 33,46,38,72,1 
+newImages/top13flipGaussian.jpg 80,32,46,10,0 34,42,40,71,1 
+newImages/top14flipGaussian.jpg 84,35,41,8,0 30,38,4,62,1 
+newImages/top15flipGaussian.jpg 85,42,38,9,0 31,33,70,61,1 
+newImages/top16flipGaussian.jpg 83,56,24,10,0 28,33,74,61,1 
+newImages/top17flipGaussian.jpg 44,53,34,61,0 
+newImages/top18flipGaussian.jpg 44,54,34,61,0 
+newImages/top19flipGaussian.jpg 45,57,34,61,0 
+newImages/top20flipGaussian.jpg 46,35,53,60,0 
+newImages/top21flipGaussian.jpg 39,32,52,66,0 
+newImages/top22flipGaussian.jpg 38,23,61,67,0 
+newImages/top23flipGaussian.jpg 38,23,62,66,0 
+newImages/top24flipGaussian.jpg 39,18,66,66,0 8,21,46,97,1 
+newImages/top25flipGaussian.jpg 39,19,65,66,0 11,20,82,94,1 
+newImages/top26flipGaussian.jpg 39,21,63,66,0 
+newImages/top27flipGaussian.jpg 40,36,52,65,0 
+newImages/top28flipGaussian.jpg 39,32,54,66,0 
+newImages/top29flipGaussian.jpg 39,32,51,66,0 
+newImages/top30flipGaussian.jpg 28,33,125,33,0 39,28,47,0,1 
+newImages/top31flipGaussian.jpg 31,30,44,74,0 9,21,73,97,1 
+newImages/imageBottom1rescale.jpg 36,36,56,0,0 
+newImages/imageBottom2rescale.jpg 9,43,29,0,0 
+newImages/imageBottom3rescale.jpg 27,47,31,0,0 
+newImages/imageBottom4rescale.jpg 28,48,35,0,0 
+newImages/imageBottom5rescale.jpg 30,50,33,0,0 
+newImages/imageBottom6rescale.jpg 28,51,34,0,0 
+newImages/imageBottom7rescale.jpg 28,49,32,0,0 42,50,103,0,1 
+newImages/imageBottom8rescale.jpg 49,56,38,7,1 27,47,32,0,0 
+newImages/imageBottom9rescale.jpg 27,47,33,0,0 
+newImages/imageBottom10rescale.jpg 38,48,32,0,1 
+newImages/imageBottom11rescale.jpg 36,42,36,43,1 64,63,22,0,0 
+newImages/imageBottom12rescale.jpg 68,62,24,0,0 
+newImages/imageBottom13rescale.jpg 68,62,24,0,0 32,65,22,72,1 
+newImages/imageBottom14rescale.jpg 39,47,94,49,1 68,64,23,0,0 
+newImages/imageBottom15rescale.jpg 25,29,99,26,1 68,62,24,0,0 
+newImages/imageBottom16rescale.jpg 64,54,36,0,0 25,27,100,31,1 
+newImages/imageBottom17rescale.jpg 65,58,34,0,0 36,43,106,37,1 
+newImages/imageBottom18rescale.jpg 50,57,51,44,1 65,56,35,0,0 
+newImages/imageBottom19rescale.jpg 65,56,35,0,0 23,27,38,31,1 
+newImages/imageBottom20rescale.jpg 35,40,44,37,1 56,54,37,0,0 
+newImages/imageBottom21rescale.jpg 59,70,28,9,0 
+newImages/imageBottom22rescale.jpg 34,43,38,37,1 61,67,29,10,0 
+newImages/imageBottom23rescale.jpg 53,64,6,47,1 60,58,41,10,0 
+newImages/imageBottom24rescale.jpg 60,68,28,10,0 38,44,93,38,1 
+newImages/imageBottom25rescale.jpg 61,71,28,9,0 25,30,112,31,1 
+newImages/imageBottom26rescale.jpg 59,71,28,10,0 
+newImages/imageBottom27rescale.jpg 24,94,36,41,0 
+newImages/imageBottom28rescale.jpg 35,39,46,38,1 25,93,36,39,0 
+newImages/imageBottom29rescale.jpg 22,26,65,31,1 23,94,36,42,0 
+newImages/imageBottom33rescale.jpg 52,60,46,12,1 
+newImages/imageBottom47rescale.jpg 23,37,123,0,0 
+newImages/imageBottom48rescale.jpg 26,20,0,0,0 
+newImages/imageBottom49rescale.jpg 64,88,28,40,0 
+newImages/imageTop1rescale.jpg 41,34,62,64,0 
+newImages/imageTop2rescale.jpg 67,46,32,23,0 
+newImages/imageTop3rescale.jpg 89,63,27,16,0 19,11,148,62,1 
+newImages/imageTop4rescale.jpg 89,62,34,16,0 
+newImages/imageTop5rescale.jpg 88,64,28,17,0 
+newImages/imageTop6rescale.jpg 88,63,30,17,0 25,30,102,68,1 
+newImages/imageTop7rescale.jpg 89,62,31,16,0 20,49,109,84,1 
+newImages/imageTop8rescale.jpg 87,64,30,18,0 10,48,46,95,1 
+newImages/imageTop9rescale.jpg 88,66,27,17,0 
+newImages/imageTop10rescale.jpg 88,64,28,17,0 21,48,36,83,1 
+newImages/imageTop11rescale.jpg 46,61,29,59,0 
+newImages/imageTop12rescale.jpg 44,62,27,60,0 
+newImages/imageTop13rescale.jpg 44,61,28,60,0 
+newImages/imageTop14rescale.jpg 46,63,28,59,0 
+newImages/imageTop15rescale.jpg 45,64,28,60,0 
+newImages/imageTop16rescale.jpg 40,57,40,65,0 
+newImages/imageTop17rescale.jpg 40,56,38,65,0 
+newImages/imageTop18rescale.jpg 40,54,39,65,0 
+newImages/imageTop19rescale.jpg 39,56,39,65,0 
+newImages/imageTop20rescale.jpg 39,54,41,66,0 
+newImages/imageTop21rescale.jpg 14,27,64,90,0 
+newImages/imageTop22rescale.jpg 13,28,64,92,0 
+newImages/imageTop23rescale.jpg 12,29,64,93,0 
+newImages/imageTop24rescale.jpg 12,29,64,93,0 
+newImages/imageTop25rescale.jpg 13,26,65,91,0 
+newImages/imageTop26rescale.jpg 13,26,65,92,0 
+newImages/imageTop30rescale.jpg 49,32,60,28,0 
+newImages/imageTop31rescale.jpg 49,34,59,30,0 20,24,66,62,1 
+newImages/imageTop32rescale.jpg 49,32,60,29,0 17,20,92,58,1 
+newImages/imageTop33rescale.jpg 50,33,59,29,0 
+newImages/imageTop34rescale.jpg 49,33,60,29,0 
+newImages/imageTop35rescale.jpg 49,20,67,29,0 
+newImages/imageTop36rescale.jpg 49,20,67,29,0 
+newImages/imageTop37rescale.jpg 50,32,62,28,0 
+newImages/imageTop38rescale.jpg 50,32,62,28,0 21,24,69,62,1 
+newImages/imageTop39rescale.jpg 50,32,61,28,0 19,18,88,58,1 
+newImages/imageTop40rescale.jpg 49,32,61,28,0 18,20,42,60,1 
+newImages/imageTop41rescale.jpg 41,29,62,37,0 
+newImages/imageTop42rescale.jpg 40,30,59,37,0 21,24,64,63,1 
+newImages/imageTop43rescale.jpg 42,30,60,37,0 
+newImages/imageTop44rescale.jpg 18,20,43,60,1 41,28,61,37,0 
+newImages/imageTop45rescale.jpg 40,31,59,37,0 21,26,0,60,1 
+newImages/imageTop46rescale.jpg 42,29,60,37,0 16,20,124,56,1 
+newImages/imageTop47rescale.jpg 42,30,60,37,0 31,33,126,72,1 
+newImages/imageTop48rescale.jpg 42,32,59,36,0 30,26,0,75,1 
+newImages/imageTop49rescale.jpg 41,30,60,37,0 
+newImages/imageTop50rescale.jpg 40,30,61,37,0 
+newImages/botton8rescale.jpg 9,31,45,0,1 
+newImages/botton9rescale.jpg 11,30,46,0,1 
+newImages/botton10rescale.jpg 7,36,122,0,1 
+newImages/botton11rescale.jpg 28,43,80,0,1 
+newImages/botton12rescale.jpg 30,48,73,0,1 
+newImages/botton13rescale.jpg 29,47,72,0,1 
+newImages/botton14rescale.jpg 14,40,117,0,1 
+newImages/botton15rescale.jpg 11,32,52,0,1 
+newImages/botton16rescale.jpg 10,33,47,0,1 
+newImages/botton17rescale.jpg 26,30,43,32,1 61,54,66,0,0 
+newImages/botton18rescale.jpg 60,54,66,0,0 
+newImages/botton19rescale.jpg 61,54,67,0,0 21,64,52,84,1 
+newImages/botton20rescale.jpg 61,32,71,0,0 21,65,52,84,1 
+newImages/botton21rescale.jpg 38,30,74,0,0 
+newImages/botton22rescale.jpg 39,22,70,0,0 
+newImages/botton23rescale.jpg 17,20,89,21,1 38,20,72,0,0 
+newImages/botton24rescale.jpg 39,20,72,0,0 17,18,58,20,1 
+newImages/botton25rescale.jpg 26,32,52,35,1 39,24,71,0,0 
+newImages/botton26rescale.jpg 24,32,2,36,1 38,33,71,0,0 
+newImages/botton27rescale.jpg 37,32,74,0,0 25,30,2,35,1 
+newImages/botton28rescale.jpg 31,27,88,74,1 
+newImages/botton29rescale.jpg 17,20,64,21,1 38,29,84,0,0 
+newImages/top1rescale.jpg 81,54,59,11,0 
+newImages/top2rescale.jpg 82,34,66,10,0 19,18,142,52,1 
+newImages/top3rescale.jpg 82,34,64,11,0 
+newImages/top4rescale.jpg 58,67,62,38,0 
+newImages/top5rescale.jpg 55,55,55,38,0 
+newImages/top6rescale.jpg 55,68,56,39,0 
+newImages/top7rescale.jpg 56,67,75,40,0 29,31,129,59,1 
+newImages/top8rescale.jpg 26,33,48,60,1 57,72,74,40,0 
+newImages/top9rescale.jpg 28,32,50,60,1 56,60,69,38,0 
+newImages/top10rescale.jpg 58,61,70,38,1 28,34,122,59,1 
+newImages/top11rescale.jpg 55,65,69,40,0 35,43,83,70,1 
+newImages/top12rescale.jpg 58,70,76,38,0 33,46,76,72,1 
+newImages/top13rescale.jpg 80,32,82,10,0 34,42,77,71,1 
+newImages/top14rescale.jpg 84,35,84,8,0 30,38,117,62,1 
+newImages/top15rescale.jpg 85,42,80,9,0 31,33,57,61,1 
+newImages/top16rescale.jpg 83,56,79,10,0 28,33,52,61,1 
+newImages/top17rescale.jpg 44,53,73,61,0 
+newImages/top18rescale.jpg 44,54,72,61,0 
+newImages/top19rescale.jpg 45,57,69,61,0 
+newImages/top20rescale.jpg 46,35,72,60,0 
+newImages/top21rescale.jpg 39,32,76,66,0 
+newImages/top22rescale.jpg 38,23,76,67,0 
+newImages/top23rescale.jpg 38,23,75,66,0 
+newImages/top24rescale.jpg 39,18,76,66,0 8,21,93,97,1 
+newImages/top25rescale.jpg 39,19,76,66,0 11,20,59,94,1 
+newImages/top26rescale.jpg 39,21,76,66,0 
+newImages/top27rescale.jpg 40,36,73,65,0 
+newImages/top28rescale.jpg 39,32,75,66,0 
+newImages/top29rescale.jpg 39,32,76,66,0 
+newImages/top30rescale.jpg 28,33,2,33,0 39,28,84,0,1 
+newImages/top31rescale.jpg 31,30,87,74,0 9,21,66,97,1 
+newImages/imageBottom1fliprescale.jpg 36,36,67,0,0 
+newImages/imageBottom2fliprescale.jpg 9,43,88,0,0 
+newImages/imageBottom3fliprescale.jpg 27,47,82,0,0 
+newImages/imageBottom4fliprescale.jpg 28,48,77,0,0 
+newImages/imageBottom5fliprescale.jpg 30,50,77,0,0 
+newImages/imageBottom6fliprescale.jpg 28,51,75,0,0 
+newImages/imageBottom7fliprescale.jpg 28,49,79,0,0 42,50,7,0,1 
+newImages/imageBottom8fliprescale.jpg 49,56,66,7,1 27,47,80,0,0 
+newImages/imageBottom9fliprescale.jpg 27,47,79,0,0 
+newImages/imageBottom10fliprescale.jpg 38,48,80,0,1 
+newImages/imageBottom11fliprescale.jpg 36,42,82,43,1 64,63,74,0,0 
+newImages/imageBottom12fliprescale.jpg 68,62,74,0,0 
+newImages/imageBottom13fliprescale.jpg 68,62,73,0,0 32,65,72,72,1 
+newImages/imageBottom14fliprescale.jpg 39,47,18,49,1 68,64,73,0,0 
+newImages/imageBottom15fliprescale.jpg 25,29,32,26,1 68,62,74,0,0 
+newImages/imageBottom16fliprescale.jpg 64,54,68,0,0 25,27,32,31,1 
+newImages/imageBottom17fliprescale.jpg 65,58,68,0,0 36,43,10,37,1 
+newImages/imageBottom18fliprescale.jpg 50,57,51,44,1 65,56,69,0,0 
+newImages/imageBottom19fliprescale.jpg 65,56,69,0,0 23,27,94,31,1 
+newImages/imageBottom20fliprescale.jpg 35,40,75,37,1 56,54,68,0,0 
+newImages/imageBottom21fliprescale.jpg 59,70,62,9,0 
+newImages/imageBottom22fliprescale.jpg 34,43,80,37,1 61,67,64,10,0 
+newImages/imageBottom23fliprescale.jpg 53,64,89,47,1 60,58,61,10,0 
+newImages/imageBottom24fliprescale.jpg 60,68,64,10,0 38,44,22,38,1 
+newImages/imageBottom25fliprescale.jpg 61,71,60,9,0 25,30,17,31,1 
+newImages/imageBottom26fliprescale.jpg 59,71,61,10,0 
+newImages/imageBottom27fliprescale.jpg 24,94,30,41,0 
+newImages/imageBottom28fliprescale.jpg 35,39,74,38,1 25,93,31,39,0 
+newImages/imageBottom29fliprescale.jpg 22,26,69,31,1 23,94,30,42,0 
+newImages/imageBottom33fliprescale.jpg 52,60,54,12,1 
+newImages/imageBottom47fliprescale.jpg 23,37,0,0,0 
+newImages/imageBottom48fliprescale.jpg 26,20,140,0,0 
+newImages/imageBottom49fliprescale.jpg 64,88,43,40,0 
+newImages/imageTop1fliprescale.jpg 41,34,63,64,0 
+newImages/imageTop2fliprescale.jpg 67,46,81,23,0 
+newImages/imageTop3fliprescale.jpg 89,63,70,16,0 19,11,0,62,1 
+newImages/imageTop4fliprescale.jpg 89,62,64,16,0 
+newImages/imageTop5fliprescale.jpg 88,64,67,17,0 
+newImages/imageTop6fliprescale.jpg 88,63,67,17,0 25,30,27,68,1 
+newImages/imageTop7fliprescale.jpg 89,62,67,16,0 20,49,1,84,1 
+newImages/imageTop8fliprescale.jpg 87,64,66,18,0 10,48,66,95,1 
+newImages/imageTop9fliprescale.jpg 88,66,67,17,0 
+newImages/imageTop10fliprescale.jpg 88,64,68,17,0 21,48,76,83,1 
+newImages/imageTop11fliprescale.jpg 46,61,70,59,0 
+newImages/imageTop12fliprescale.jpg 44,62,70,60,0 
+newImages/imageTop13fliprescale.jpg 44,61,71,60,0 
+newImages/imageTop14fliprescale.jpg 46,63,68,59,0 
+newImages/imageTop15fliprescale.jpg 45,64,68,60,0 
+newImages/imageTop16fliprescale.jpg 40,57,62,65,0 
+newImages/imageTop17fliprescale.jpg 40,56,66,65,0 
+newImages/imageTop18fliprescale.jpg 40,54,66,65,0 
+newImages/imageTop19fliprescale.jpg 39,56,64,65,0 
+newImages/imageTop20fliprescale.jpg 39,54,64,66,0 
+newImages/imageTop21fliprescale.jpg 14,27,69,90,0 
+newImages/imageTop22fliprescale.jpg 13,28,68,92,0 
+newImages/imageTop23fliprescale.jpg 12,29,66,93,0 
+newImages/imageTop24fliprescale.jpg 12,29,66,93,0 
+newImages/imageTop25fliprescale.jpg 13,26,69,91,0 
+newImages/imageTop26fliprescale.jpg 13,26,68,92,0 
+newImages/imageTop30fliprescale.jpg 49,32,67,28,0 
+newImages/imageTop31fliprescale.jpg 49,34,67,30,0 20,24,70,62,1 
+newImages/imageTop32fliprescale.jpg 49,32,68,29,0 17,20,48,58,1 
+newImages/imageTop33fliprescale.jpg 50,33,67,29,0 
+newImages/imageTop34fliprescale.jpg 49,33,67,29,0 
+newImages/imageTop35fliprescale.jpg 49,20,72,29,0 
+newImages/imageTop36fliprescale.jpg 49,20,73,29,0 
+newImages/imageTop37fliprescale.jpg 50,32,66,28,0 
+newImages/imageTop38fliprescale.jpg 50,32,66,28,0 21,24,67,62,1 
+newImages/imageTop39fliprescale.jpg 50,32,67,28,0 19,18,54,58,1 
+newImages/imageTop40fliprescale.jpg 49,32,66,28,0 18,20,97,60,1 
+newImages/imageTop41fliprescale.jpg 41,29,69,37,0 
+newImages/imageTop42fliprescale.jpg 40,30,70,37,0 21,24,72,63,1 
+newImages/imageTop43fliprescale.jpg 42,30,70,37,0 
+newImages/imageTop44fliprescale.jpg 18,20,97,60,1 41,28,70,37,0 
+newImages/imageTop45fliprescale.jpg 40,31,70,37,0 21,26,134,60,1 
+newImages/imageTop46fliprescale.jpg 42,29,70,37,0 16,20,15,56,1 
+newImages/imageTop47fliprescale.jpg 42,30,70,37,0 31,33,0,72,1 
+newImages/imageTop48fliprescale.jpg 42,32,69,36,0 30,26,133,75,1 
+newImages/imageTop49fliprescale.jpg 41,30,70,37,0 
+newImages/imageTop50fliprescale.jpg 40,30,69,37,0 
+newImages/botton8fliprescale.jpg 9,31,84,0,1 
+newImages/botton9fliprescale.jpg 11,30,84,0,1 
+newImages/botton10fliprescale.jpg 7,36,2,0,1 
+newImages/botton11fliprescale.jpg 28,43,37,0,1 
+newImages/botton12fliprescale.jpg 30,48,39,0,1 
+newImages/botton13fliprescale.jpg 29,47,41,0,1 
+newImages/botton14fliprescale.jpg 14,40,3,0,1 
+newImages/botton15fliprescale.jpg 11,32,76,0,1 
+newImages/botton16fliprescale.jpg 10,33,80,0,1 
+newImages/botton17fliprescale.jpg 26,30,87,32,1 61,54,40,0,0 
+newImages/botton18fliprescale.jpg 60,54,41,0,0 
+newImages/botton19fliprescale.jpg 61,54,39,0,0 21,64,44,84,1 
+newImages/botton20fliprescale.jpg 61,32,57,0,0 21,65,44,84,1 
+newImages/botton21fliprescale.jpg 38,30,56,0,0 
+newImages/botton22fliprescale.jpg 39,22,68,0,0 
+newImages/botton23fliprescale.jpg 17,20,51,21,1 38,20,69,0,0 
+newImages/botton24fliprescale.jpg 39,20,68,0,0 17,18,85,20,1 
+newImages/botton25fliprescale.jpg 26,32,76,35,1 39,24,65,0,0 
+newImages/botton26fliprescale.jpg 24,32,126,36,1 38,33,56,0,0 
+newImages/botton27fliprescale.jpg 37,32,55,0,0 25,30,127,35,1 
+newImages/botton28fliprescale.jpg 31,27,44,74,1 
+newImages/botton29fliprescale.jpg 17,20,76,21,1 38,29,47,0,0 
+newImages/top1fliprescale.jpg 81,54,47,11,0 
+newImages/top2fliprescale.jpg 82,34,61,10,0 19,18,0,52,1 
+newImages/top3fliprescale.jpg 82,34,62,11,0 
+newImages/top4fliprescale.jpg 58,67,31,38,0 
+newImages/top5fliprescale.jpg 55,55,50,38,0 
+newImages/top6fliprescale.jpg 55,68,36,39,0 
+newImages/top7fliprescale.jpg 56,67,18,40,0 29,31,0,59,1 
+newImages/top8fliprescale.jpg 26,33,80,60,1 57,72,14,40,0 
+newImages/top9fliprescale.jpg 28,32,78,60,1 56,60,31,38,0 
+newImages/top10fliprescale.jpg 58,61,28,38,1 28,34,5,59,1 
+newImages/top11fliprescale.jpg 55,65,26,40,0 35,43,34,70,1 
+newImages/top12fliprescale.jpg 58,70,13,38,0 33,46,38,72,1 
+newImages/top13fliprescale.jpg 80,32,46,10,0 34,42,40,71,1 
+newImages/top14fliprescale.jpg 84,35,41,8,0 30,38,4,62,1 
+newImages/top15fliprescale.jpg 85,42,38,9,0 31,33,70,61,1 
+newImages/top16fliprescale.jpg 83,56,24,10,0 28,33,74,61,1 
+newImages/top17fliprescale.jpg 44,53,34,61,0 
+newImages/top18fliprescale.jpg 44,54,34,61,0 
+newImages/top19fliprescale.jpg 45,57,34,61,0 
+newImages/top20fliprescale.jpg 46,35,53,60,0 
+newImages/top21fliprescale.jpg 39,32,52,66,0 
+newImages/top22fliprescale.jpg 38,23,61,67,0 
+newImages/top23fliprescale.jpg 38,23,62,66,0 
+newImages/top24fliprescale.jpg 39,18,66,66,0 8,21,46,97,1 
+newImages/top25fliprescale.jpg 39,19,65,66,0 11,20,82,94,1 
+newImages/top26fliprescale.jpg 39,21,63,66,0 
+newImages/top27fliprescale.jpg 40,36,52,65,0 
+newImages/top28fliprescale.jpg 39,32,54,66,0 
+newImages/top29fliprescale.jpg 39,32,51,66,0 
+newImages/top30fliprescale.jpg 28,33,125,33,0 39,28,47,0,1 
+newImages/top31fliprescale.jpg 31,30,44,74,0 9,21,73,97,1 
